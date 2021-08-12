@@ -90,7 +90,7 @@ class _vitalsPageState extends State<vitalsPage> {
                                     Container(
                                       alignment: Alignment.bottomCenter,
                                       child: Text(
-                                        'Blood Glucose: ${snapshot.data['Blood Glucose']}',
+                                        'Blood Glucose: 10.00',
                                         // textAlign: TextAlign.center,
                                         style: TextStyle(
                                             fontSize: 18,
@@ -116,7 +116,7 @@ class _vitalsPageState extends State<vitalsPage> {
                                     Container(
                                       alignment: Alignment.bottomCenter,
                                       child: Text(
-                                        'Temperature: ${snapshot.data['Body Temp']}',
+                                        'Temperature: 37.45',
                                         // textAlign: TextAlign.center,
                                         style: TextStyle(
                                             fontSize: 18,
@@ -151,7 +151,7 @@ class _vitalsPageState extends State<vitalsPage> {
                                     Container(
                                       alignment: Alignment.bottomCenter,
                                       child: Text(
-                                        'Weight: ${snapshot.data['Body weight']}',
+                                        'Weight: 67',
                                         // textAlign: TextAlign.center,
                                         style: TextStyle(
                                             fontSize: 18,
@@ -177,7 +177,7 @@ class _vitalsPageState extends State<vitalsPage> {
                                     Container(
                                       alignment: Alignment.bottomCenter,
                                       child: Text(
-                                        'Heart Rate: ${snapshot.data['Pulse']}',
+                                        'Heart Rate: 98',
                                         // textAlign: TextAlign.center,
                                         style: TextStyle(
                                             fontSize: 18,
@@ -212,7 +212,7 @@ class _vitalsPageState extends State<vitalsPage> {
                                     Container(
                                       alignment: Alignment.bottomCenter,
                                       child: Text(
-                                        'Respiration: ${snapshot.data['Respiration Rate']}',
+                                        'Respiration: 99',
                                         // textAlign: TextAlign.center,
                                         style: TextStyle(
                                             fontSize: 18,
@@ -238,7 +238,7 @@ class _vitalsPageState extends State<vitalsPage> {
                                     Container(
                                       alignment: Alignment.bottomCenter,
                                       child: Text(
-                                        'Blood Pressure: ${snapshot.data['Blood Pressure']}',
+                                        'Blood Pressure: 120',
                                         // textAlign: TextAlign.center,
                                         style: TextStyle(
                                             fontSize: 18,
