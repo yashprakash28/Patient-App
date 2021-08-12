@@ -1,16 +1,5 @@
-# patient_teledoc
+# Pateint App for TeleDoc
 
-A new Flutter project.
+This is the repository for the mobile application for Patient Side application, enabling appointment bookings and tracking of body vitals. The app is coded in flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![TeleDoc](https://user-images.githubusercontent.com/43716445/124780029-e8780900-df5f-11eb-8b16-a941560c390e.png)
